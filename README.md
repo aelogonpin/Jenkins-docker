@@ -2,6 +2,6 @@
 
 Dockerfile que se actualiza desde un contenedor y que lanza un proceso de build en DockerHub.
 
-Desarrollado por @pekechis para el curso de "Inicación a Docker para el desarrollo" del CEP de Castilleja de la cuesta.
+Basado por @IPnotics para el curso de "Inicación a Docker para el desarrollo" del centro IES TRIANA Sevilla.
 
 
