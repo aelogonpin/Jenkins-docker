@@ -1,4 +1,4 @@
-# dockerimage-from-jenkins-pipelin
+# dockerimage-from-jenkins-IPnotics
 
 Dockerfile que se actualiza desde un contenedor y que lanza un proceso de build en DockerHub.
 
